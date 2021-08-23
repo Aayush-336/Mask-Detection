@@ -1,4 +1,5 @@
-*.npy
+without_mask.npy
+with_mask.npy
 *.pkl
 .ipynb_checkpoints/
 dataset/
